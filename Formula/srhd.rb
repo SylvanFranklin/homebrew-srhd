@@ -1,4 +1,4 @@
-class srhd < Formula
+class Srhd < Formula
   desc "Simple Rust Hotkey Daemon for MacOS"
   homepage "https://github.com/sylvanfranklin/srhd"
   url "https://github.com/SylvanFranklin/srhd/releases/download/v0.1.1/srhd-mac.tar.gz"
